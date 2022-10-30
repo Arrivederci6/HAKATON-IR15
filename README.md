@@ -1,2 +1,2 @@
 Hi there!
-To play our game you should open an application named "Vakarchuk`s Kidnapping". (Right archive is located in "Main" branch.
+To play our game you should open google drive link, then downloiad all files, that are located in that disk.
